@@ -1,19 +1,27 @@
-<h1 align="center">Hi 👋, I'm Vani Shukla</h1>
-<h3 align="center">Software Engineering Student | Backend & Full-Stack Developer | AI Enthusiast</h3>
+<div align="center">
 
----
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There%2C%20I'm%20Vani%20Shukla&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+scale;AI+%2B+Web+Dev+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+real+products;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech in Computer Science and Engineering, **JECRC University** (CGPA: 8.98/10.0)
-- 🔭 I'm currently working on **AI-powered full-stack applications and real-time systems**
-- 🌱 I'm currently learning **DSA, ServiceNow development, and scalable backend systems**
-- 👯 I'm looking to collaborate on **Open Source & Real-World Projects**
-- 💬 Ask me about **C++, Python, JavaScript, Node.js, React, DBMS, Computer Networks**
-- 📫 How to reach me: **[vanishukla2006@gmail.com](mailto:vanishukla2006@gmail.com)**
-- 📍 Based in **Jaipur, Rajasthan**
-- ⚡ Fun fact: *I love building tech that impacts millions*
 
----
+- 🔭 Currently building **AI-powered full-stack applications and real-time systems**
+- 🌱 Leveling up in **DSA, MERN Stack, and scalable backend systems**
+- 👯 Open to collaborating on **Open Source & Real-World Projects**
+- 💬 Ask me about **C++, Python, JavaScript, Node.js, React, Flask, DBMS**
+- 📫 Reach me at **[vanishukla2006@gmail.com](mailto:vanishukla2006@gmail.com)**
+- ⚡ Fun fact: *I love turning ideas into real-world tech solutions*
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 ## 🌐 Connect with Me
 
@@ -29,32 +37,15 @@
 </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 ## 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,react,mysql,sqlite,git,github,vscode,flask" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,react,mysql,sqlite,git,github,vscode,flask&theme=dark" alt="Skills" />
 </p>
 
-**Core CS:** Data Structures & Algorithms, OOP, DBMS, Computer Networks
-**Cloud & Enterprise:** ServiceNow, Glide API, ITSM Workflows
-
----
-
-## 💼 Experience
-
-### 🔹 Project Intern — RVCERT (Remote) | Feb 2026 – Apr 2026
-- Built an **AI-powered surveillance system** using YOLOv8 for real-time weapon, fire, and smoke detection via webcam feeds
-- Developed a **Flask REST API** with SQLite for managing cameras, alerts, incidents, and OTP-based user authentication
-- Designed a **React dashboard** with live MJPEG video streaming, analytics via Recharts, and state management using Zustand
-
-### 🔹 ServiceNow Trainee — JECRC University (Remote) | Jan 2026 – Feb 2026
-- Learning ServiceNow platform fundamentals and application development through hands-on labs
-- Building proficiency in ServiceNow scripting (JavaScript, Glide API) and workflow automation
-- Practicing enterprise ITSM workflows: Incident, Change, and Request Management, and Service Catalog configurations
-
----
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -66,36 +57,24 @@
 
 ### 🔹 AI Surveillance System
 **Tech Stack:** YOLOv8, Flask, SQLite, React, Recharts, Zustand
-- Real-time weapon, fire, and smoke detection via webcam feeds
+- Real-time weapon, fire, and smoke detection using YOLOv8 via webcam feeds
 - Live MJPEG video streaming dashboard with analytics and alert management
 
----
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-## 🏆 Certifications
-- ServiceNow Certified Application Developer (CAD) — Jun 2026
-- McKinsey Forward Program — Jun 2026
-- ServiceNow Certified System Administrator (CSA) — May 2026
-- Cisco Networking Academy – Networking Fundamentals — Feb 2026
+## 🧠 Problem Solving & Learning
+- 📌 Regularly practicing **DSA & LeetCode**
+- 📌 Building projects to apply concepts
+- 📌 Improving code quality & documentation
 
----
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-## 🎯 Extracurricular Activities
-- **Google Developer Student Club (GDSC)** – Web Developer Volunteer
-- **Swaraag Music Club** – Core Team Member and Vocalist
+<!-- Animated GitHub Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vanishukla97/Vanishukla97/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Vanishukla97&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanishukla97&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanishukla97&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
+<!-- Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <p align="center">⭐️ From <a href="https://github.com/Vanishukla97">Vani Shukla</a></p>
