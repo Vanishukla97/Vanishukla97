@@ -22,6 +22,8 @@
 - 👯 Open to collaborating on **Open Source & Real-World Projects**
 - 💬 Ask me about **C++, Python, JavaScript, Node.js, React, Flask, DBMS**
 - 📫 Reach me at **[vanishukla2006@gmail.com](mailto:vanishukla2006@gmail.com)**
+- 📄 Want to know about my expertise:
+  👉 **[Click here to view my resume](https://github.com/Vanishukla97/Vanishukla97/blob/main/resume.pdf)**
 - ⚡ Fun fact: *I love turning ideas into real-world tech solutions*
 
 </td>
