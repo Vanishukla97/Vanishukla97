@@ -8,14 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+scale;AI+%2B+Web+Dev+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+real+products;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Animated Snake -->
-<img src="https://raw.githubusercontent.com/Vanishukla97/Vanishukla97/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
 </div>
 
 <br/>
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -25,6 +24,15 @@
 - 💬 Ask me about **C++, Python, JavaScript, Node.js, React, Flask, DBMS**
 - 📫 Reach me at **[vanishukla2006@gmail.com](mailto:vanishukla2006@gmail.com)**
 - ⚡ Fun fact: *I love turning ideas into real-world tech solutions*
+
+</td>
+<td width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
