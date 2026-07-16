@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There%2C%20I'm%20Vani%20Shukla&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+# Hi There, I'm Vani Shukla 👋
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+scale;AI+%2B+Web+Dev+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+real+products;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+full-stack+apps+that+scale;AI+%2B+Web+Dev+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 </div>
@@ -81,8 +80,5 @@
 - 📌 Improving code quality & documentation
 
 <br/>
-
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <p align="center">⭐️ From <a href="https://github.com/Vanishukla97">Vani Shukla</a></p>
