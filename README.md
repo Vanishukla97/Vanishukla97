@@ -8,9 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+scale;AI+%2B+Web+Dev+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+real+products;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<!-- Animated Snake -->
+<img src="https://raw.githubusercontent.com/Vanishukla97/Vanishukla97/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -21,7 +26,7 @@
 - 📫 Reach me at **[vanishukla2006@gmail.com](mailto:vanishukla2006@gmail.com)**
 - ⚡ Fun fact: *I love turning ideas into real-world tech solutions*
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+<br/>
 
 ## 🌐 Connect with Me
 
@@ -37,7 +42,7 @@
 </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+<br/>
 
 ## 🛠 Languages and Tools
 
@@ -45,7 +50,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,react,mysql,sqlite,git,github,vscode,flask&theme=dark" alt="Skills" />
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -60,19 +65,14 @@
 - Real-time weapon, fire, and smoke detection using YOLOv8 via webcam feeds
 - Live MJPEG video streaming dashboard with analytics and alert management
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+<br/>
 
 ## 🧠 Problem Solving & Learning
 - 📌 Regularly practicing **DSA & LeetCode**
 - 📌 Building projects to apply concepts
 - 📌 Improving code quality & documentation
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
-<!-- Animated GitHub Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vanishukla97/Vanishukla97/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
+<br/>
 
 <!-- Animated Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
