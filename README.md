@@ -4,7 +4,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+full-stack+apps+that+scale;AI+%2B+Web+Dev+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+full-stack+apps+that+scale;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 </div>
@@ -47,6 +47,9 @@
 <a href="https://github.com/Vanishukla97" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://codolio.com/profile/Vani%20Shukla" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-6C3EF4?style=for-the-badge&logo=leetcode&logoColor=white" alt="Codolio"/>
+</a>
 </p>
 
 <br/>
@@ -82,3 +85,5 @@
 <br/>
 
 <p align="center">⭐️ From <a href="https://github.com/Vanishukla97">Vani Shukla</a></p>
+
+<p align="center">✨ Thank you for visiting my profile ✨</p>
