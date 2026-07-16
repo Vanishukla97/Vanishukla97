@@ -27,7 +27,7 @@
 </td>
 <td width="40%">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejEwb3FjbG5ma3R4MDZucmR2cHltYzZla3cxbXd4NWJhMXAwa2RmOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
 
 </td>
 </tr>
