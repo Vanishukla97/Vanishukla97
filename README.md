@@ -118,8 +118,6 @@ Developed as part of my project internship at RVCERT.
 - ☁️ ServiceNow Certified Application Developer (CAD)
 - 🏆 Top 50 – ServiceNow HackNow, in collaboration with Accenture
 - 🎓 McKinsey Forward Program
-- 📚 NPTEL Soft Skills – Elite (81%)
-- 🌐 Cisco Networking Basics
 
 <br/>
 
